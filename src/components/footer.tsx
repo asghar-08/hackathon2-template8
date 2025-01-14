@@ -74,7 +74,7 @@ export default function Footer() {
             <div className="lg:container lg:mx-auto px-4 lg:px-10 flex flex-col sm:flex-row-reverse justify-between items-center py-5 gap-5 " >
                 <Image src={paymentlogo} alt="logo"/>
                 <p className="text-xs md:text-sm tracking-wide text-mediumGray">
-                    © 2024 Comforty. | Build with ❤️ by <span className="text-primary">Muhammad Shoaib</span>
+                    © 2024 Comforty. | Build with  by <span className="text-primary">Asghar ali</span>
                 </p>
             </div>
             </>
